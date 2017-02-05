@@ -5,13 +5,13 @@
 // Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSum() function below and check the console to see if the test passes.*/
 
 // Write your code here
-function sum(a, b){
-  var sumArray = [(a+b), 'The sum of '+ a + ' and ' + b + ' is ' + (a+b) + '.'];
-
-  return sumArray;
-}
-
-testSum(4, 7);
+// function sum(a, b){
+//   var sumArray = [(a+b), 'The sum of '+ a + ' and ' + b + ' is ' + (a+b) + '.'];
+//
+//   return sumArray;
+// }
+//
+// testSum(4, 7);
 
 
 // Once you get the test passing, do an a-c-p cycle, synchronize the code between both GitHubs and both laptops, and swap Driver/Navigator roles. Don't forget to create a new branch for your work on the next question!
